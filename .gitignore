@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.DS_Store
+.idea/.gitignore
+.idea/EEG_Analysis.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+0.1.Simple_Binary_Files/
+Flanker_data_files/
+Flanker_event_files-Updated/
+Flanker_event_files/
+GNG_Simple_Binary/
+*.zip
+*.nsf
